@@ -19,14 +19,14 @@ p{
 /* Styling for the label */
 #guess {
     font-size: 16px;
-    color: #fff; /* Change color as needed */
+    color: #fff;
 }
 
 /* Styling for the input field */
 .guessField {
     padding: 5px;
     margin: 5px 0;
-    border: 1px solid #ccc; /* Change border color as needed */
+    border: 1px solid #ccc;
     border-radius: 4px;
     font-size: 16px;
 }
@@ -34,8 +34,8 @@ p{
 /* Styling for the submit button */
 .guessSubmit {
     padding: 6px 25px;
-    background-color: #007bff; /* Change background color as needed */
-    color: #fff; /* Change text color as needed */
+    background-color: #007bff;
+    color: #fff; 
     border: none;
     border-radius: 4px;
     font-size: 16px;
@@ -44,6 +44,6 @@ p{
 
 /* Hover effect for the submit button */
 .guessSubmit:hover {
-    background-color: #0056b3; /* Change hover background color as needed */
+    background-color: #0056b3; 
 }
 
